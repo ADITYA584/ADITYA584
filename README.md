@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **MY Portfolio**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ADITYA584/ADITYA584](https://github.com/ADITYA584/ADITYA584)
 
